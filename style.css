@@ -10,4 +10,10 @@ body{
     margin: auto;
     text-align: center;
     font-size: 20px;
+
+}
+
+#input{
+    width: 100px;
+    margin: 25px auto;
 }
