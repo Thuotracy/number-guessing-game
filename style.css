@@ -17,3 +17,7 @@ body{
     width: 100px;
     margin: 25px auto;
 }
+
+#btn{
+    margin: 25px auto auto 5px;
+}
