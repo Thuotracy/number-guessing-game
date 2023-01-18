@@ -4,8 +4,7 @@
 A number guessing game
 
 ## Live link
-https://thuotracy.github.io/countdown-timer/
-
+(https://thuotracy.github.io/number-guessing-game/)
 
 ## Technologies Used
 *HTML
