@@ -1,7 +1,7 @@
 # NUMBER-GUESSING-GAME
 
 ## Description
-A number guessing game
+A number guessing game.
 
 ## Live link
 (https://thuotracy.github.io/number-guessing-game/)
