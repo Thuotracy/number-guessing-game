@@ -1,5 +1,4 @@
 # NUMBER-GUESSING-GAME
-
 ## Description
 A number guessing game.
 
