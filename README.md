@@ -4,7 +4,7 @@
 A number guessing game.
 
 ## Live link
-https://thuotracy.github.io/number-guessing-game/
+https://thuotracy.github.io/number-guessing-game
 
 ## Technologies Used
 * HTML
